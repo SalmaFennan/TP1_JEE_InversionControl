@@ -1,6 +1,6 @@
 package metier;
 
-import dao.DaoImpl;
+
 import dao.IDao;
 
 public class MetierImpl implements IMetier {
@@ -8,8 +8,7 @@ public class MetierImpl implements IMetier {
     @Override
     public double calcul() {
         double t= dao.getData();
-        double res=t*23;
-        return res;
+        return t*23;
     }
     public void setDao(IDao dao) {
         this.dao = dao;
