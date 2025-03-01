@@ -1,7 +1,7 @@
 package presentation;
 
 import dao.DaoImpl;
-import metier.IMetier;
+import metier.IMetier;  
 import metier.MetierImpl;
 
 public class presentationV1 {
