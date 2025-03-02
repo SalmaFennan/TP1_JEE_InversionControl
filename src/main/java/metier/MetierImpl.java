@@ -1,6 +1,7 @@
 package metier;
 
 
+import dao.DaoImpl;
 import dao.IDao;
 
 public class MetierImpl implements IMetier {
@@ -21,4 +22,6 @@ public class MetierImpl implements IMetier {
     public void setDao(IDao dao) {
         this.dao = dao;
     }
+
+
 }
