@@ -7,7 +7,7 @@
         <li>Spring (XML & Annotations)</li>
     </ul>
 <h2>1. Création de l'interface IDao</h2>
-<img src="images/5.png" alt="L'interface" DAO>
+<img src="C:\Users\LENOVO\IdeaProjects\TP1_JEE_InversionControl\images\5.png" alt="L'interface" DAO>
 <h2>2. Implémentation de IDao</h2>
 <img src="images/6.png" alt=Implementation de DAO>
  <h2>3. Création de l'interface IMetier</h2>
